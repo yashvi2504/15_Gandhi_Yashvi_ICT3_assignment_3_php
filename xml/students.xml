@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student><name>Asha Patel</name><email>asha@example.com</email></student>
+  <student><name>Rahul Shah</name><email>rahul@example.com</email></student>
+  <student><name>Neha Desai</name><email>neha@example.com</email></student>
+</students>
